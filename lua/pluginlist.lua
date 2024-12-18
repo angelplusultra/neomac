@@ -280,5 +280,8 @@ return {
       ft = { "markdown", "Avante" },
     },
   },
-}
+},
+	{ 'wakatime/vim-wakatime', lazy = false }
+
+
 }
